@@ -1,0 +1,2852 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sapporo",
+        "description": "Asc2: 068A_04667_071312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_011_Sapporo_068A_04667_071312.png\" width=\"200\"><br>Des2: 046D_04690_121308<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_011_Sapporo_046D_04690_121308.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              141.1862,
+              42.9463
+            ],
+            [
+              141.1862,
+              43.1825
+            ],
+            [
+              141.591,
+              43.1825
+            ],
+            [
+              141.591,
+              42.9463
+            ],
+            [
+              141.1862,
+              42.9463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hakodate",
+        "description": "Asc1: 141A_04925_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_012_Hakodate_141A_04925_131313.png\" width=\"200\"><br>Des2: 046D_04907_081313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_012_Hakodate_046D_04907_081313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.619,
+              41.7462
+            ],
+            [
+              140.619,
+              41.8734
+            ],
+            [
+              140.8428,
+              41.8734
+            ],
+            [
+              140.8428,
+              41.7462
+            ],
+            [
+              140.619,
+              41.7462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asahikawa",
+        "description": "Asc1: 170A_04675_131008<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_013_Asahikawa_170A_04675_131008.png\" width=\"200\"><br>Asc2: 068A_04667_071312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_013_Asahikawa_068A_04667_071312.png\" width=\"200\"><br>Des1: 148D_04631_101009<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_013_Asahikawa_148D_04631_101009.png\" width=\"200\"><br>Des2: 046D_04690_121308<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_013_Asahikawa_046D_04690_121308.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              142.3008,
+              43.7135
+            ],
+            [
+              142.3008,
+              43.8361
+            ],
+            [
+              142.4715,
+              43.8361
+            ],
+            [
+              142.4715,
+              43.7135
+            ],
+            [
+              142.3008,
+              43.7135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kushiro",
+        "description": "Asc1: 170A_04675_131008<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_014_Kushiro_170A_04675_131008.png\" width=\"200\"><br>Des1: 148D_04631_101009<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_014_Kushiro_148D_04631_101009.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.2883,
+              42.9518
+            ],
+            [
+              144.2883,
+              43.0364
+            ],
+            [
+              144.4564,
+              43.0364
+            ],
+            [
+              144.4564,
+              42.9518
+            ],
+            [
+              144.2883,
+              42.9518
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Obihiro",
+        "description": "Asc1: 170A_04675_131008<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_015_Obihiro_170A_04675_131008.png\" width=\"200\"><br>Asc2: 068A_04667_071312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_015_Obihiro_068A_04667_071312.png\" width=\"200\"><br>Des1: 148D_04631_101009<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_015_Obihiro_148D_04631_101009.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.1028,
+              42.8725
+            ],
+            [
+              143.1028,
+              42.9445
+            ],
+            [
+              143.2346,
+              42.9445
+            ],
+            [
+              143.2346,
+              42.8725
+            ],
+            [
+              143.1028,
+              42.8725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomakomai",
+        "description": "Asc2: 068A_04667_071312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_016_Tomakomai_068A_04667_071312.png\" width=\"200\"><br>Des2: 046D_04690_121308<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_016_Tomakomai_046D_04690_121308.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              141.4757,
+              42.6001
+            ],
+            [
+              141.4757,
+              42.6868
+            ],
+            [
+              141.7107,
+              42.6868
+            ],
+            [
+              141.7107,
+              42.6001
+            ],
+            [
+              141.4757,
+              42.6001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aomori",
+        "description": "Asc1: 141A_04925_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_021_Aomori_141A_04925_131313.png\" width=\"200\"><br>Des2: 046D_04907_081313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_021_Aomori_046D_04907_081313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.6561,
+              40.7677
+            ],
+            [
+              140.6561,
+              40.8681
+            ],
+            [
+              140.8412,
+              40.8681
+            ],
+            [
+              140.8412,
+              40.7677
+            ],
+            [
+              140.6561,
+              40.7677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hirosaki",
+        "description": "Asc1: 141A_04925_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_022_Hirosaki_141A_04925_131313.png\" width=\"200\"><br>Des2: 046D_04907_081313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_022_Hirosaki_046D_04907_081313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.3687,
+              40.5544
+            ],
+            [
+              140.3687,
+              40.8287
+            ],
+            [
+              140.6147,
+              40.8287
+            ],
+            [
+              140.6147,
+              40.5544
+            ],
+            [
+              140.3687,
+              40.5544
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hachinohe",
+        "description": "Asc1: 141A_04925_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_023_Hachinohe_141A_04925_131313.png\" width=\"200\"><br>Des2: 046D_04907_081313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_023_Hachinohe_046D_04907_081313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              141.4222,
+              40.4752
+            ],
+            [
+              141.4222,
+              40.5845
+            ],
+            [
+              141.5784,
+              40.5845
+            ],
+            [
+              141.5784,
+              40.4752
+            ],
+            [
+              141.4222,
+              40.4752
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morioka",
+        "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_031_Morioka_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_031_Morioka_046D_05096_121313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              141.0683,
+              39.5967
+            ],
+            [
+              141.0683,
+              39.7925
+            ],
+            [
+              141.1897,
+              39.7925
+            ],
+            [
+              141.1897,
+              39.5967
+            ],
+            [
+              141.0683,
+              39.5967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sendai",
+        "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_041_Sendai_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_041_Sendai_046D_05096_121313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.7888,
+              38.1374
+            ],
+            [
+              140.7888,
+              38.3949
+            ],
+            [
+              141.0628,
+              38.3949
+            ],
+            [
+              141.0628,
+              38.1374
+            ],
+            [
+              140.7888,
+              38.1374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kesennuma",
+        "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_042_Kesennuma_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_042_Kesennuma_046D_05096_121313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              141.5406,
+              38.8792
+            ],
+            [
+              141.5406,
+              38.9209
+            ],
+            [
+              141.5992,
+              38.9209
+            ],
+            [
+              141.5992,
+              38.8792
+            ],
+            [
+              141.5406,
+              38.8792
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osaki",
+        "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_043_Osaki_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_043_Osaki_046D_05096_121313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.9288,
+              38.5465
+            ],
+            [
+              140.9288,
+              38.604
+            ],
+            [
+              140.9956,
+              38.604
+            ],
+            [
+              140.9956,
+              38.5465
+            ],
+            [
+              140.9288,
+              38.5465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akita",
+        "description": "Asc1: 141A_04925_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_051_Akita_141A_04925_131313.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_051_Akita_046D_05096_121313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.0343,
+              39.6611
+            ],
+            [
+              140.0343,
+              39.7885
+            ],
+            [
+              140.1642,
+              39.7885
+            ],
+            [
+              140.1642,
+              39.6611
+            ],
+            [
+              140.0343,
+              39.6611
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamagata",
+        "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_061_Yamagata_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_061_Yamagata_046D_05096_121313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.2827,
+              38.1832
+            ],
+            [
+              140.2827,
+              38.3022
+            ],
+            [
+              140.3922,
+              38.3022
+            ],
+            [
+              140.3922,
+              38.1832
+            ],
+            [
+              140.2827,
+              38.1832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yonezawa",
+        "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_062_Yonezawa_141A_05118_131311.png\" width=\"200\"><br>Asc2: 039A_05193_040711<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_062_Yonezawa_039A_05193_040711.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_062_Yonezawa_046D_05292_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.0627,
+              37.866
+            ],
+            [
+              140.0627,
+              37.9553
+            ],
+            [
+              140.1814,
+              37.9553
+            ],
+            [
+              140.1814,
+              37.866
+            ],
+            [
+              140.0627,
+              37.866
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fukushima",
+        "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_071_Fukushima_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_071_Fukushima_046D_05292_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.4074,
+              37.7107
+            ],
+            [
+              140.4074,
+              37.8412
+            ],
+            [
+              140.5289,
+              37.8412
+            ],
+            [
+              140.5289,
+              37.7107
+            ],
+            [
+              140.4074,
+              37.7107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koriyama",
+        "description": "Asc1: 141A_05337_160700<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_072_Koriyama_141A_05337_160700.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_072_Koriyama_039A_05372_151515.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_072_Koriyama_046D_05292_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.3005,
+              37.3401
+            ],
+            [
+              140.3005,
+              37.4469
+            ],
+            [
+              140.4196,
+              37.4469
+            ],
+            [
+              140.4196,
+              37.3401
+            ],
+            [
+              140.3005,
+              37.3401
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanto",
+        "description": "Asc1: 141A_05337_160700<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_131_Kanto_141A_05337_160700.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_131_Kanto_039A_05372_151515.png\" width=\"200\"><br>Des2: 046D_05469_071311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_131_Kanto_046D_05469_071311.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_131_Kanto_046D_05292_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.9219,
+              35.132
+            ],
+            [
+              138.9219,
+              36.6521
+            ],
+            [
+              140.7082,
+              36.6521
+            ],
+            [
+              140.7082,
+              35.132
+            ],
+            [
+              138.9219,
+              35.132
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niigata",
+        "description": "Asc2: 039A_05193_040711<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_151_Niigata_039A_05193_040711.png\" width=\"200\"><br>Des1: 119D_05226_070704<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_151_Niigata_119D_05226_070704.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_151_Niigata_046D_05292_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.8991,
+              37.8367
+            ],
+            [
+              138.8991,
+              37.9974
+            ],
+            [
+              139.2326,
+              37.9974
+            ],
+            [
+              139.2326,
+              37.8367
+            ],
+            [
+              138.8991,
+              37.8367
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagaoka",
+        "description": "Asc2: 039A_05193_040711<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_152_Nagaoka_039A_05193_040711.png\" width=\"200\"><br>Des1: 119D_05226_070704<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_152_Nagaoka_119D_05226_070704.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_152_Nagaoka_046D_05292_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.754,
+              37.3958
+            ],
+            [
+              138.754,
+              37.5062
+            ],
+            [
+              138.9061,
+              37.5062
+            ],
+            [
+              138.9061,
+              37.3958
+            ],
+            [
+              138.754,
+              37.3958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanjo",
+        "description": "Asc2: 039A_05193_040711<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_153_Sanjo_039A_05193_040711.png\" width=\"200\"><br>Des1: 119D_05226_070704<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_153_Sanjo_119D_05226_070704.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_153_Sanjo_046D_05292_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.866,
+              37.5884
+            ],
+            [
+              138.866,
+              37.7233
+            ],
+            [
+              139.0839,
+              37.7233
+            ],
+            [
+              139.0839,
+              37.5884
+            ],
+            [
+              138.866,
+              37.5884
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kashiwazaki",
+        "description": "Asc2: 039A_05193_040711<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_154_Kashiwazaki_039A_05193_040711.png\" width=\"200\"><br>Des1: 119D_05226_070704<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_154_Kashiwazaki_119D_05226_070704.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.5191,
+              37.346
+            ],
+            [
+              138.5191,
+              37.4043
+            ],
+            [
+              138.601,
+              37.4043
+            ],
+            [
+              138.601,
+              37.346
+            ],
+            [
+              138.5191,
+              37.346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ojiya",
+        "description": "Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_155_Ojiya_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05226_070704<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_155_Ojiya_119D_05226_070704.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_155_Ojiya_046D_05292_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.7669,
+              37.286
+            ],
+            [
+              138.7669,
+              37.3396
+            ],
+            [
+              138.8318,
+              37.3396
+            ],
+            [
+              138.8318,
+              37.286
+            ],
+            [
+              138.7669,
+              37.286
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joetsu",
+        "description": "Asc1: 112A_05300_030808<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_156_Joetsu_112A_05300_030808.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_156_Joetsu_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_156_Joetsu_119D_05372_141313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.2093,
+              37.083
+            ],
+            [
+              138.2093,
+              37.2085
+            ],
+            [
+              138.3021,
+              37.2085
+            ],
+            [
+              138.3021,
+              37.083
+            ],
+            [
+              138.2093,
+              37.083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minamiuonuma",
+        "description": "Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_157_Minamiuonuma_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_157_Minamiuonuma_119D_05372_141313.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_157_Minamiuonuma_046D_05292_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.8384,
+              37.027
+            ],
+            [
+              138.8384,
+              37.0956
+            ],
+            [
+              138.9258,
+              37.0956
+            ],
+            [
+              138.9258,
+              37.027
+            ],
+            [
+              138.8384,
+              37.027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toyama",
+        "description": "Asc1: 112A_05300_030808<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_161_Toyama_112A_05300_030808.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_161_Toyama_119D_05372_141313.png\" width=\"200\"><br>Des2: 017D_05353_130400<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_161_Toyama_017D_05353_130400.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.1452,
+              36.6408
+            ],
+            [
+              137.1452,
+              36.7702
+            ],
+            [
+              137.2889,
+              36.7702
+            ],
+            [
+              137.2889,
+              36.6408
+            ],
+            [
+              137.1452,
+              36.6408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanazawa",
+        "description": "Asc1: 112A_05300_030808<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_171_Kanazawa_112A_05300_030808.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_171_Kanazawa_119D_05372_141313.png\" width=\"200\"><br>Des2: 017D_05353_130400<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_171_Kanazawa_017D_05353_130400.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              136.4958,
+              36.4903
+            ],
+            [
+              136.4958,
+              36.7105
+            ],
+            [
+              136.7602,
+              36.7105
+            ],
+            [
+              136.7602,
+              36.4903
+            ],
+            [
+              136.4958,
+              36.4903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanao",
+        "description": "Asc1: 112A_05300_030808<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_172_Nanao_112A_05300_030808.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_172_Nanao_119D_05372_141313.png\" width=\"200\"><br>Des2: 017D_05353_130400<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_172_Nanao_017D_05353_130400.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              136.9402,
+              37.0141
+            ],
+            [
+              136.9402,
+              37.0647
+            ],
+            [
+              137.0091,
+              37.0647
+            ],
+            [
+              137.0091,
+              37.0141
+            ],
+            [
+              136.9402,
+              37.0141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fukui",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_181_Fukui_112A_05454_131213.png\" width=\"200\"><br>Asc2: 010A_05426_030306<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_181_Fukui_010A_05426_030306.png\" width=\"200\"><br>Des2: 017D_05353_130400<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_181_Fukui_017D_05353_130400.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              136.1637,
+              36.015
+            ],
+            [
+              136.1637,
+              36.1405
+            ],
+            [
+              136.2704,
+              36.1405
+            ],
+            [
+              136.2704,
+              36.015
+            ],
+            [
+              136.1637,
+              36.015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kofu",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_191_Kofu_112A_05454_131213.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_191_Kofu_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_191_Kofu_119D_05372_141313.png\" width=\"200\"><br>Des2: 046D_05469_071311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_191_Kofu_046D_05469_071311.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.4838,
+              35.5779
+            ],
+            [
+              138.4838,
+              35.7076
+            ],
+            [
+              138.6189,
+              35.7076
+            ],
+            [
+              138.6189,
+              35.5779
+            ],
+            [
+              138.4838,
+              35.5779
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagano",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_201_Nagano_112A_05454_131213.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_201_Nagano_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_201_Nagano_119D_05372_141313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.1194,
+              36.5453
+            ],
+            [
+              138.1194,
+              36.7055
+            ],
+            [
+              138.3365,
+              36.7055
+            ],
+            [
+              138.3365,
+              36.5453
+            ],
+            [
+              138.1194,
+              36.5453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matsumoto",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_202_Matsumoto_112A_05454_131213.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_202_Matsumoto_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_202_Matsumoto_119D_05372_141313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.9199,
+              36.0959
+            ],
+            [
+              137.9199,
+              36.2736
+            ],
+            [
+              138.0124,
+              36.2736
+            ],
+            [
+              138.0124,
+              36.0959
+            ],
+            [
+              137.9199,
+              36.0959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gifu",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_211_Gifu_112A_05454_131213.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_211_Gifu_119D_05372_141313.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_211_Gifu_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              136.6683,
+              35.2702
+            ],
+            [
+              136.6683,
+              35.4972
+            ],
+            [
+              136.9724,
+              35.4972
+            ],
+            [
+              136.9724,
+              35.2702
+            ],
+            [
+              136.6683,
+              35.2702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shizuoka",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_221_Shizuoka_112A_05454_131213.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_221_Shizuoka_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_221_Shizuoka_119D_05525_040809.png\" width=\"200\"><br>Des2: 046D_05469_071311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_221_Shizuoka_046D_05469_071311.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.3232,
+              34.9103
+            ],
+            [
+              138.3232,
+              35.081
+            ],
+            [
+              138.5403,
+              35.081
+            ],
+            [
+              138.5403,
+              34.9103
+            ],
+            [
+              138.3232,
+              34.9103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamamatsu",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_222_Hamamatsu_112A_05454_131213.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_222_Hamamatsu_119D_05525_040809.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.5966,
+              34.6444
+            ],
+            [
+              137.5966,
+              34.8274
+            ],
+            [
+              137.9471,
+              34.8274
+            ],
+            [
+              137.9471,
+              34.6444
+            ],
+            [
+              137.5966,
+              34.6444
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Numazu",
+        "description": "Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_223_Numazu_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_223_Numazu_119D_05372_141313.png\" width=\"200\"><br>Des2: 046D_05469_071311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_223_Numazu_046D_05469_071311.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.774,
+              35.0471
+            ],
+            [
+              138.774,
+              35.1974
+            ],
+            [
+              138.974,
+              35.1974
+            ],
+            [
+              138.974,
+              35.0471
+            ],
+            [
+              138.774,
+              35.0471
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuji",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_224_Fuji_112A_05454_131213.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_224_Fuji_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_224_Fuji_119D_05372_141313.png\" width=\"200\"><br>Des2: 046D_05469_071311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_224_Fuji_046D_05469_071311.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.5485,
+              35.0941
+            ],
+            [
+              138.5485,
+              35.2641
+            ],
+            [
+              138.7639,
+              35.2641
+            ],
+            [
+              138.7639,
+              35.0941
+            ],
+            [
+              138.5485,
+              35.0941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagoya",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_231_Nagoya_112A_05454_131213.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_231_Nagoya_119D_05525_040809.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              136.7588,
+              34.8212
+            ],
+            [
+              136.7588,
+              35.304
+            ],
+            [
+              137.2166,
+              35.304
+            ],
+            [
+              137.2166,
+              34.8212
+            ],
+            [
+              136.7588,
+              34.8212
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toyohashi",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_232_Toyohashi_112A_05454_131213.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_232_Toyohashi_119D_05525_040809.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.303,
+              34.7015
+            ],
+            [
+              137.303,
+              34.8695
+            ],
+            [
+              137.4695,
+              34.8695
+            ],
+            [
+              137.4695,
+              34.7015
+            ],
+            [
+              137.303,
+              34.7015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsu",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_241_Tsu_112A_05454_131213.png\" width=\"200\"><br>Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_241_Tsu_010A_05549_121311.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_241_Tsu_119D_05525_040809.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_241_Tsu_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              136.432,
+              34.6195
+            ],
+            [
+              136.432,
+              34.7817
+            ],
+            [
+              136.5624,
+              34.7817
+            ],
+            [
+              136.5624,
+              34.6195
+            ],
+            [
+              136.432,
+              34.6195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yokkaichi",
+        "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_242_Yokkaichi_112A_05454_131213.png\" width=\"200\"><br>Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_242_Yokkaichi_010A_05549_121311.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_242_Yokkaichi_119D_05525_040809.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_242_Yokkaichi_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              136.5047,
+              34.7988
+            ],
+            [
+              136.5047,
+              35.1109
+            ],
+            [
+              136.708,
+              35.1109
+            ],
+            [
+              136.708,
+              34.7988
+            ],
+            [
+              136.5047,
+              34.7988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otsu",
+        "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_251_Otsu_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_251_Otsu_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.8437,
+              34.9272
+            ],
+            [
+              135.8437,
+              35.1525
+            ],
+            [
+              136.0471,
+              35.1525
+            ],
+            [
+              136.0471,
+              34.9272
+            ],
+            [
+              135.8437,
+              34.9272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyoto",
+        "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_261_Kyoto_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_261_Kyoto_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.651,
+              34.7694
+            ],
+            [
+              135.651,
+              35.0925
+            ],
+            [
+              135.8443,
+              35.0925
+            ],
+            [
+              135.8443,
+              34.7694
+            ],
+            [
+              135.651,
+              34.7694
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osaka",
+        "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_271_Osaka_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_271_Osaka_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.2135,
+              34.3235
+            ],
+            [
+              135.2135,
+              34.9225
+            ],
+            [
+              135.6655,
+              34.9225
+            ],
+            [
+              135.6655,
+              34.3235
+            ],
+            [
+              135.2135,
+              34.3235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kobe",
+        "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_281_Kobe_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_281_Kobe_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.7493,
+              34.6185
+            ],
+            [
+              134.7493,
+              34.8028
+            ],
+            [
+              135.2168,
+              34.8028
+            ],
+            [
+              135.2168,
+              34.6185
+            ],
+            [
+              134.7493,
+              34.6185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Himeji",
+        "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_282_Himeji_083A_05602_131212.png\" width=\"200\"><br>Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_282_Himeji_010A_05549_121311.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_282_Himeji_090D_05485_121414.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_282_Himeji_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.5291,
+              34.7529
+            ],
+            [
+              134.5291,
+              34.8845
+            ],
+            [
+              134.752,
+              34.8845
+            ],
+            [
+              134.752,
+              34.7529
+            ],
+            [
+              134.5291,
+              34.7529
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toyooka",
+        "description": "Asc2: 010A_05426_030306<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_283_Toyooka_010A_05426_030306.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_283_Toyooka_090D_05485_121414.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_283_Toyooka_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.798,
+              35.5196
+            ],
+            [
+              134.798,
+              35.5637
+            ],
+            [
+              134.8474,
+              35.5637
+            ],
+            [
+              134.8474,
+              35.5196
+            ],
+            [
+              134.798,
+              35.5196
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nara",
+        "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_291_Nara_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_291_Nara_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.6651,
+              34.4481
+            ],
+            [
+              135.6651,
+              34.7701
+            ],
+            [
+              135.8797,
+              34.7701
+            ],
+            [
+              135.8797,
+              34.4481
+            ],
+            [
+              135.6651,
+              34.4481
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wakayama",
+        "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_301_Wakayama_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_301_Wakayama_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.0911,
+              34.1406
+            ],
+            [
+              135.0911,
+              34.2811
+            ],
+            [
+              135.2377,
+              34.2811
+            ],
+            [
+              135.2377,
+              34.1406
+            ],
+            [
+              135.0911,
+              34.1406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tottori",
+        "description": "Asc1: 083A_05460_050904<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_311_Tottori_083A_05460_050904.png\" width=\"200\"><br>Asc2: 010A_05426_030306<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_311_Tottori_010A_05426_030306.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_311_Tottori_090D_05485_121414.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_311_Tottori_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.1572,
+              35.4655
+            ],
+            [
+              134.1572,
+              35.5459
+            ],
+            [
+              134.2745,
+              35.5459
+            ],
+            [
+              134.2745,
+              35.4655
+            ],
+            [
+              134.1572,
+              35.4655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matsue",
+        "description": "Asc1: 083A_05460_050904<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_321_Matsue_083A_05460_050904.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_321_Matsue_090D_05485_121414.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.0219,
+              35.4201
+            ],
+            [
+              133.0219,
+              35.5025
+            ],
+            [
+              133.1153,
+              35.5025
+            ],
+            [
+              133.1153,
+              35.4201
+            ],
+            [
+              133.0219,
+              35.4201
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okayama",
+        "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_331_Okayama_083A_05602_131212.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_331_Okayama_090D_05485_121414.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.6535,
+              34.4466
+            ],
+            [
+              133.6535,
+              34.7132
+            ],
+            [
+              134.0556,
+              34.7132
+            ],
+            [
+              134.0556,
+              34.4466
+            ],
+            [
+              133.6535,
+              34.4466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hiroshima",
+        "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_341_Hiroshima_083A_05602_131212.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_341_Hiroshima_156A_05639_121313.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_341_Hiroshima_090D_05485_121414.png\" width=\"200\"><br>Des2: 163D_05579_100804<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_341_Hiroshima_163D_05579_100804.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              132.281,
+              34.2974
+            ],
+            [
+              132.281,
+              34.5443
+            ],
+            [
+              132.5602,
+              34.5443
+            ],
+            [
+              132.5602,
+              34.2974
+            ],
+            [
+              132.281,
+              34.2974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fukuyama",
+        "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_342_Fukuyama_083A_05602_131212.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_342_Fukuyama_090D_05485_121414.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.3055,
+              34.4203
+            ],
+            [
+              133.3055,
+              34.5613
+            ],
+            [
+              133.4846,
+              34.5613
+            ],
+            [
+              133.4846,
+              34.4203
+            ],
+            [
+              133.3055,
+              34.4203
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamaguchi",
+        "description": "Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_351_Yamaguchi_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05579_100804<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_351_Yamaguchi_163D_05579_100804.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.3771,
+              34.0778
+            ],
+            [
+              131.3771,
+              34.208
+            ],
+            [
+              131.5308,
+              34.208
+            ],
+            [
+              131.5308,
+              34.0778
+            ],
+            [
+              131.3771,
+              34.0778
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shimonoseki",
+        "description": "Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_352_Shimonoseki_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05579_100804<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_352_Shimonoseki_163D_05579_100804.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130.8697,
+              33.9096
+            ],
+            [
+              130.8697,
+              34.0419
+            ],
+            [
+              131.0255,
+              34.0419
+            ],
+            [
+              131.0255,
+              33.9096
+            ],
+            [
+              130.8697,
+              33.9096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokushima",
+        "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_361_Tokushima_083A_05602_131212.png\" width=\"200\"><br>Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_361_Tokushima_010A_05549_121311.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_361_Tokushima_090D_05485_121414.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_361_Tokushima_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.4653,
+              33.9775
+            ],
+            [
+              134.4653,
+              34.1282
+            ],
+            [
+              134.6214,
+              34.1282
+            ],
+            [
+              134.6214,
+              33.9775
+            ],
+            [
+              134.4653,
+              33.9775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takamatsu",
+        "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_371_Takamatsu_083A_05602_131212.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_371_Takamatsu_090D_05485_121414.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_371_Takamatsu_017D_05514_131312.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.9788,
+              34.2646
+            ],
+            [
+              133.9788,
+              34.3674
+            ],
+            [
+              134.1357,
+              34.3674
+            ],
+            [
+              134.1357,
+              34.2646
+            ],
+            [
+              133.9788,
+              34.2646
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matsuyama",
+        "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_381_Matsuyama_083A_05602_131212.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_381_Matsuyama_156A_05639_121313.png\" width=\"200\"><br>Des1: 090D_05651_051011<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_381_Matsuyama_090D_05651_051011.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              132.681,
+              33.7406
+            ],
+            [
+              132.681,
+              33.9129
+            ],
+            [
+              132.903,
+              33.9129
+            ],
+            [
+              132.903,
+              33.7406
+            ],
+            [
+              132.681,
+              33.7406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kochi",
+        "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_391_Kochi_083A_05602_131212.png\" width=\"200\"><br>Des1: 090D_05651_051011<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_391_Kochi_090D_05651_051011.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.463,
+              33.4833
+            ],
+            [
+              133.463,
+              33.6192
+            ],
+            [
+              133.7123,
+              33.6192
+            ],
+            [
+              133.7123,
+              33.4833
+            ],
+            [
+              133.463,
+              33.4833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fukuoka",
+        "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_401_Fukuoka_054A_05688_051313.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_401_Fukuoka_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_401_Fukuoka_163D_05736_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130.2873,
+              33.4676
+            ],
+            [
+              130.2873,
+              33.7514
+            ],
+            [
+              130.5552,
+              33.7514
+            ],
+            [
+              130.5552,
+              33.4676
+            ],
+            [
+              130.2873,
+              33.4676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kitakyushu",
+        "description": "Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_402_Kitakyushu_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05579_100804<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_402_Kitakyushu_163D_05579_100804.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130.6773,
+              33.7261
+            ],
+            [
+              130.6773,
+              33.9534
+            ],
+            [
+              130.9621,
+              33.9534
+            ],
+            [
+              130.9621,
+              33.7261
+            ],
+            [
+              130.6773,
+              33.7261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurume",
+        "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_403_Kurume_054A_05688_051313.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_403_Kurume_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_403_Kurume_163D_05736_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130.4755,
+              33.2587
+            ],
+            [
+              130.4755,
+              33.4673
+            ],
+            [
+              130.68,
+              33.4673
+            ],
+            [
+              130.68,
+              33.2587
+            ],
+            [
+              130.4755,
+              33.2587
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saga",
+        "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_411_Saga_054A_05688_051313.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_411_Saga_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_411_Saga_163D_05736_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130.1795,
+              33.1403
+            ],
+            [
+              130.1795,
+              33.3342
+            ],
+            [
+              130.4249,
+              33.3342
+            ],
+            [
+              130.4249,
+              33.1403
+            ],
+            [
+              130.1795,
+              33.1403
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagasaki",
+        "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_421_Nagasaki_054A_05688_051313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_421_Nagasaki_163D_05736_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              129.8122,
+              32.6763
+            ],
+            [
+              129.8122,
+              32.8483
+            ],
+            [
+              129.9135,
+              32.8483
+            ],
+            [
+              129.9135,
+              32.6763
+            ],
+            [
+              129.8122,
+              32.6763
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sasebo",
+        "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_422_Sasebo_054A_05688_051313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_422_Sasebo_163D_05736_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              129.647,
+              33.1154
+            ],
+            [
+              129.647,
+              33.2247
+            ],
+            [
+              129.8189,
+              33.2247
+            ],
+            [
+              129.8189,
+              33.1154
+            ],
+            [
+              129.647,
+              33.1154
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumamoto",
+        "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_431_Kumamoto_054A_05688_051313.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_431_Kumamoto_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_431_Kumamoto_163D_05736_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130.3835,
+              32.4262
+            ],
+            [
+              130.3835,
+              33.0866
+            ],
+            [
+              130.9042,
+              33.0866
+            ],
+            [
+              130.9042,
+              32.4262
+            ],
+            [
+              130.3835,
+              32.4262
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oita",
+        "description": "Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_441_Oita_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_441_Oita_163D_05736_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.5334,
+              33.1647
+            ],
+            [
+              131.5334,
+              33.2839
+            ],
+            [
+              131.776,
+              33.2839
+            ],
+            [
+              131.776,
+              33.1647
+            ],
+            [
+              131.5334,
+              33.1647
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beppu",
+        "description": "Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_442_Beppu_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_442_Beppu_163D_05736_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.4474,
+              33.2625
+            ],
+            [
+              131.4474,
+              33.3473
+            ],
+            [
+              131.517,
+              33.3473
+            ],
+            [
+              131.517,
+              33.2625
+            ],
+            [
+              131.4474,
+              33.2625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miyazaki",
+        "description": "Asc2: 156A_05796_080500<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_451_Miyazaki_156A_05796_080500.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_451_Miyazaki_163D_05736_131313.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.3559,
+              31.8169
+            ],
+            [
+              131.3559,
+              32.0431
+            ],
+            [
+              131.4907,
+              32.0431
+            ],
+            [
+              131.4907,
+              31.8169
+            ],
+            [
+              131.3559,
+              31.8169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kagoshima",
+        "description": "Asc1: 054A_05884_001412<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_461_Kagoshima_054A_05884_001412.png\" width=\"200\"><br>Des2: 163D_05934_091414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_461_Kagoshima_163D_05934_091414.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130.4704,
+              31.459
+            ],
+            [
+              130.4704,
+              31.6629
+            ],
+            [
+              130.5891,
+              31.6629
+            ],
+            [
+              130.5891,
+              31.459
+            ],
+            [
+              130.4704,
+              31.459
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naha",
+        "description": "Asc2: 127A_06256_070603<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_471_Naha_127A_06256_070603.png\" width=\"200\"><br>",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.6336,
+              26.1134
+            ],
+            [
+              127.6336,
+              26.3897
+            ],
+            [
+              127.871,
+              26.3897
+            ],
+            [
+              127.871,
+              26.1134
+            ],
+            [
+              127.6336,
+              26.1134
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
