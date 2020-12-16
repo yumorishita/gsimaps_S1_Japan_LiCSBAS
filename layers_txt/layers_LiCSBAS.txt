@@ -9,7 +9,7 @@
       "entries": [
         {
           "type": "LayerGroup",
-          "title": "Useful layters",
+          "title": "Useful layers",
           "iconUrl": "",
           "toggleall": false,
           "id": "",
@@ -128,7 +128,7 @@
               "id": "ndvi_250m_2012_08",
               "title": "NDVI (Aug 2012)",
               "iconUrl": "",
-              "url": "https://maps.gsi.go.jp/xyz/ndvi_250m_2012_04/{z}/{x}/{y}.png",
+              "url": "https://maps.gsi.go.jp/xyz/ndvi_250m_2012_08/{z}/{x}/{y}.png",
               "subdomains": "",
               "attribution": "",
               "errorTileUrl": "",
@@ -137,7 +137,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 10,
               "legendUrl": "https://maps.gsi.go.jp/legend/legend_ndvi250m.pdf",
-              "html": "<div class=\"gsi_layerinfo_title\">全国植生指標データ（250m）</div><div style=\"font-size:12px; margin: 2px\">(2004年4月)</div><div class=\"gsi_layerinfo_kaisetu\"></div><div style=\"font-size:13px; margin: 8px\" >国土地理院と東海大学との共同研究による。<BR/><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/ndvi.html\">解説</a><BR/><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/ndvi-download.html\">データダウンロード</a><br></div><div style=\"font-size:13px; margin: 8px\" Align=\"right\">(c)国土地理院</div>"
+              "html": "<div class=\"gsi_layerinfo_title\">全国植生指標データ（250m）</div><div style=\"font-size:12px; margin: 2px\">(2012年8月)</div><div class=\"gsi_layerinfo_kaisetu\"></div><div style=\"font-size:13px; margin: 8px\" >国土地理院と東海大学との共同研究による。<BR/><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/ndvi.html\">解説</a><BR/><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/ndvi-download.html\">データダウンロード</a><br></div><div style=\"font-size:13px; margin: 8px\" Align=\"right\">(c)国土地理院</div>"
             }
           ]
         },

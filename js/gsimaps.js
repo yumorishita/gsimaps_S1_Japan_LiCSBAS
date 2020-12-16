@@ -22,8 +22,8 @@ var CONFIG = {};
 
 // この状態で表示された時はcookieを優先
 //CONFIG.DEFAULTHASH = "#5/36.104611/140.084556/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1";
-
-CONFIG.DEFAULTHASH = /#5\/36.10461[\d]*\/140.08455[\d]*\/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1/g;
+//CONFIG.DEFAULTHASH = /#5\/36.10461[\d]*\/140.08455[\d]*\/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1/g;
+CONFIG.DEFAULTHASH = /#9\/35.835628\/140.060577\/&base_grayscale=1&ls=std%2C0.5%7Chillshademap%2C0.5%7CallUD%7Clanduse_veg&blend=100&disp=0110&vs=c1j0h0k0l0u0t0z0r0s0m0f2&d=m/g;
 
 //
 CONFIG.USECOOKIE = true;
