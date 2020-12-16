@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sapporo",
+        "name": "Sapporo (ID: 011)",
         "description": "Asc2: 068A_04667_071312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_011_Sapporo_068A_04667_071312.png\" width=\"200\"><br>Des2: 046D_04690_121308<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_011_Sapporo_046D_04690_121308.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -43,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hakodate",
+        "name": "Hakodate (ID: 012)",
         "description": "Asc1: 141A_04925_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_012_Hakodate_141A_04925_131313.png\" width=\"200\"><br>Des2: 046D_04907_081313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_012_Hakodate_046D_04907_081313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -82,7 +82,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Asahikawa",
+        "name": "Asahikawa (ID: 013)",
         "description": "Asc1: 170A_04675_131008<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_013_Asahikawa_170A_04675_131008.png\" width=\"200\"><br>Asc2: 068A_04667_071312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_013_Asahikawa_068A_04667_071312.png\" width=\"200\"><br>Des1: 148D_04631_101009<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_013_Asahikawa_148D_04631_101009.png\" width=\"200\"><br>Des2: 046D_04690_121308<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_013_Asahikawa_046D_04690_121308.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -121,7 +121,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kushiro",
+        "name": "Kushiro (ID: 014)",
         "description": "Asc1: 170A_04675_131008<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_014_Kushiro_170A_04675_131008.png\" width=\"200\"><br>Des1: 148D_04631_101009<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_014_Kushiro_148D_04631_101009.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -160,7 +160,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Obihiro",
+        "name": "Obihiro (ID: 015)",
         "description": "Asc1: 170A_04675_131008<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_015_Obihiro_170A_04675_131008.png\" width=\"200\"><br>Asc2: 068A_04667_071312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_015_Obihiro_068A_04667_071312.png\" width=\"200\"><br>Des1: 148D_04631_101009<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_015_Obihiro_148D_04631_101009.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -199,7 +199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tomakomai",
+        "name": "Tomakomai (ID: 016)",
         "description": "Asc2: 068A_04667_071312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_016_Tomakomai_068A_04667_071312.png\" width=\"200\"><br>Des2: 046D_04690_121308<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_016_Tomakomai_046D_04690_121308.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -238,7 +238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aomori",
+        "name": "Aomori (ID: 021)",
         "description": "Asc1: 141A_04925_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_021_Aomori_141A_04925_131313.png\" width=\"200\"><br>Des2: 046D_04907_081313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_021_Aomori_046D_04907_081313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -277,7 +277,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hirosaki",
+        "name": "Hirosaki (ID: 022)",
         "description": "Asc1: 141A_04925_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_022_Hirosaki_141A_04925_131313.png\" width=\"200\"><br>Des2: 046D_04907_081313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_022_Hirosaki_046D_04907_081313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -316,7 +316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hachinohe",
+        "name": "Hachinohe (ID: 023)",
         "description": "Asc1: 141A_04925_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_023_Hachinohe_141A_04925_131313.png\" width=\"200\"><br>Des2: 046D_04907_081313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_023_Hachinohe_046D_04907_081313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -355,7 +355,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Morioka",
+        "name": "Morioka (ID: 031)",
         "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_031_Morioka_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_031_Morioka_046D_05096_121313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -394,7 +394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sendai",
+        "name": "Sendai (ID: 041)",
         "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_041_Sendai_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_041_Sendai_046D_05096_121313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -433,7 +433,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kesennuma",
+        "name": "Kesennuma (ID: 042)",
         "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_042_Kesennuma_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_042_Kesennuma_046D_05096_121313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -472,7 +472,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Osaki",
+        "name": "Osaki (ID: 043)",
         "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_043_Osaki_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_043_Osaki_046D_05096_121313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -511,7 +511,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Akita",
+        "name": "Akita (ID: 051)",
         "description": "Asc1: 141A_04925_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_051_Akita_141A_04925_131313.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_051_Akita_046D_05096_121313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -550,7 +550,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yamagata",
+        "name": "Yamagata (ID: 061)",
         "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_061_Yamagata_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05096_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_061_Yamagata_046D_05096_121313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -589,7 +589,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yonezawa",
+        "name": "Yonezawa (ID: 062)",
         "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_062_Yonezawa_141A_05118_131311.png\" width=\"200\"><br>Asc2: 039A_05193_040711<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_062_Yonezawa_039A_05193_040711.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_062_Yonezawa_046D_05292_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -628,7 +628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fukushima",
+        "name": "Fukushima (ID: 071)",
         "description": "Asc1: 141A_05118_131311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_071_Fukushima_141A_05118_131311.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_071_Fukushima_046D_05292_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -667,7 +667,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Koriyama",
+        "name": "Koriyama (ID: 072)",
         "description": "Asc1: 141A_05337_160700<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_072_Koriyama_141A_05337_160700.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_072_Koriyama_039A_05372_151515.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_072_Koriyama_046D_05292_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -706,7 +706,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kanto",
+        "name": "Kanto (ID: 131)",
         "description": "Asc1: 141A_05337_160700<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_131_Kanto_141A_05337_160700.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_131_Kanto_039A_05372_151515.png\" width=\"200\"><br>Des2: 046D_05469_071311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_131_Kanto_046D_05469_071311.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_131_Kanto_046D_05292_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -745,7 +745,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Niigata",
+        "name": "Niigata (ID: 151)",
         "description": "Asc2: 039A_05193_040711<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_151_Niigata_039A_05193_040711.png\" width=\"200\"><br>Des1: 119D_05226_070704<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_151_Niigata_119D_05226_070704.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_151_Niigata_046D_05292_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -784,7 +784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagaoka",
+        "name": "Nagaoka (ID: 152)",
         "description": "Asc2: 039A_05193_040711<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_152_Nagaoka_039A_05193_040711.png\" width=\"200\"><br>Des1: 119D_05226_070704<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_152_Nagaoka_119D_05226_070704.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_152_Nagaoka_046D_05292_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -823,7 +823,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sanjo",
+        "name": "Sanjo (ID: 153)",
         "description": "Asc2: 039A_05193_040711<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_153_Sanjo_039A_05193_040711.png\" width=\"200\"><br>Des1: 119D_05226_070704<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_153_Sanjo_119D_05226_070704.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_153_Sanjo_046D_05292_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -862,7 +862,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kashiwazaki",
+        "name": "Kashiwazaki (ID: 154)",
         "description": "Asc2: 039A_05193_040711<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_154_Kashiwazaki_039A_05193_040711.png\" width=\"200\"><br>Des1: 119D_05226_070704<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_154_Kashiwazaki_119D_05226_070704.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -901,7 +901,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ojiya",
+        "name": "Ojiya (ID: 155)",
         "description": "Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_155_Ojiya_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05226_070704<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_155_Ojiya_119D_05226_070704.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_155_Ojiya_046D_05292_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -940,7 +940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Joetsu",
+        "name": "Joetsu (ID: 156)",
         "description": "Asc1: 112A_05300_030808<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_156_Joetsu_112A_05300_030808.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_156_Joetsu_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_156_Joetsu_119D_05372_141313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -979,7 +979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Minamiuonuma",
+        "name": "Minamiuonuma (ID: 157)",
         "description": "Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_157_Minamiuonuma_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_157_Minamiuonuma_119D_05372_141313.png\" width=\"200\"><br>Des2: 046D_05292_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_157_Minamiuonuma_046D_05292_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1018,7 +1018,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toyama",
+        "name": "Toyama (ID: 161)",
         "description": "Asc1: 112A_05300_030808<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_161_Toyama_112A_05300_030808.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_161_Toyama_119D_05372_141313.png\" width=\"200\"><br>Des2: 017D_05353_130400<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_161_Toyama_017D_05353_130400.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1057,7 +1057,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kanazawa",
+        "name": "Kanazawa (ID: 171)",
         "description": "Asc1: 112A_05300_030808<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_171_Kanazawa_112A_05300_030808.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_171_Kanazawa_119D_05372_141313.png\" width=\"200\"><br>Des2: 017D_05353_130400<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_171_Kanazawa_017D_05353_130400.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1096,7 +1096,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nanao",
+        "name": "Nanao (ID: 172)",
         "description": "Asc1: 112A_05300_030808<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_172_Nanao_112A_05300_030808.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_172_Nanao_119D_05372_141313.png\" width=\"200\"><br>Des2: 017D_05353_130400<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_172_Nanao_017D_05353_130400.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1135,7 +1135,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fukui",
+        "name": "Fukui (ID: 181)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_181_Fukui_112A_05454_131213.png\" width=\"200\"><br>Asc2: 010A_05426_030306<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_181_Fukui_010A_05426_030306.png\" width=\"200\"><br>Des2: 017D_05353_130400<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_181_Fukui_017D_05353_130400.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1174,7 +1174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kofu",
+        "name": "Kofu (ID: 191)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_191_Kofu_112A_05454_131213.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_191_Kofu_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_191_Kofu_119D_05372_141313.png\" width=\"200\"><br>Des2: 046D_05469_071311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_191_Kofu_046D_05469_071311.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1213,7 +1213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagano",
+        "name": "Nagano (ID: 201)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_201_Nagano_112A_05454_131213.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_201_Nagano_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_201_Nagano_119D_05372_141313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1252,7 +1252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Matsumoto",
+        "name": "Matsumoto (ID: 202)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_202_Matsumoto_112A_05454_131213.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_202_Matsumoto_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_202_Matsumoto_119D_05372_141313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1291,7 +1291,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gifu",
+        "name": "Gifu (ID: 211)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_211_Gifu_112A_05454_131213.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_211_Gifu_119D_05372_141313.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_211_Gifu_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1330,7 +1330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Shizuoka",
+        "name": "Shizuoka (ID: 221)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_221_Shizuoka_112A_05454_131213.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_221_Shizuoka_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_221_Shizuoka_119D_05525_040809.png\" width=\"200\"><br>Des2: 046D_05469_071311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_221_Shizuoka_046D_05469_071311.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1369,7 +1369,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hamamatsu",
+        "name": "Hamamatsu (ID: 222)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_222_Hamamatsu_112A_05454_131213.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_222_Hamamatsu_119D_05525_040809.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1408,7 +1408,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Numazu",
+        "name": "Numazu (ID: 223)",
         "description": "Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_223_Numazu_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_223_Numazu_119D_05372_141313.png\" width=\"200\"><br>Des2: 046D_05469_071311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_223_Numazu_046D_05469_071311.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1447,7 +1447,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fuji",
+        "name": "Fuji (ID: 224)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_224_Fuji_112A_05454_131213.png\" width=\"200\"><br>Asc2: 039A_05372_151515<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_224_Fuji_039A_05372_151515.png\" width=\"200\"><br>Des1: 119D_05372_141313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_224_Fuji_119D_05372_141313.png\" width=\"200\"><br>Des2: 046D_05469_071311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_224_Fuji_046D_05469_071311.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1486,7 +1486,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagoya",
+        "name": "Nagoya (ID: 231)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_231_Nagoya_112A_05454_131213.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_231_Nagoya_119D_05525_040809.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1525,7 +1525,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toyohashi",
+        "name": "Toyohashi (ID: 232)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_232_Toyohashi_112A_05454_131213.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_232_Toyohashi_119D_05525_040809.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1564,7 +1564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tsu",
+        "name": "Tsu (ID: 241)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_241_Tsu_112A_05454_131213.png\" width=\"200\"><br>Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_241_Tsu_010A_05549_121311.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_241_Tsu_119D_05525_040809.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_241_Tsu_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1603,7 +1603,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yokkaichi",
+        "name": "Yokkaichi (ID: 242)",
         "description": "Asc1: 112A_05454_131213<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_242_Yokkaichi_112A_05454_131213.png\" width=\"200\"><br>Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_242_Yokkaichi_010A_05549_121311.png\" width=\"200\"><br>Des1: 119D_05525_040809<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_242_Yokkaichi_119D_05525_040809.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_242_Yokkaichi_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1642,7 +1642,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Otsu",
+        "name": "Otsu (ID: 251)",
         "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_251_Otsu_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_251_Otsu_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1681,7 +1681,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kyoto",
+        "name": "Kyoto (ID: 261)",
         "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_261_Kyoto_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_261_Kyoto_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1720,7 +1720,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Osaka",
+        "name": "Osaka (ID: 271)",
         "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_271_Osaka_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_271_Osaka_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1759,7 +1759,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kobe",
+        "name": "Kobe (ID: 281)",
         "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_281_Kobe_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_281_Kobe_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1798,7 +1798,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Himeji",
+        "name": "Himeji (ID: 282)",
         "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_282_Himeji_083A_05602_131212.png\" width=\"200\"><br>Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_282_Himeji_010A_05549_121311.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_282_Himeji_090D_05485_121414.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_282_Himeji_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1837,7 +1837,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toyooka",
+        "name": "Toyooka (ID: 283)",
         "description": "Asc2: 010A_05426_030306<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_283_Toyooka_010A_05426_030306.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_283_Toyooka_090D_05485_121414.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_283_Toyooka_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1876,7 +1876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nara",
+        "name": "Nara (ID: 291)",
         "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_291_Nara_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_291_Nara_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1915,7 +1915,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wakayama",
+        "name": "Wakayama (ID: 301)",
         "description": "Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_301_Wakayama_010A_05549_121311.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_301_Wakayama_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1954,7 +1954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tottori",
+        "name": "Tottori (ID: 311)",
         "description": "Asc1: 083A_05460_050904<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_311_Tottori_083A_05460_050904.png\" width=\"200\"><br>Asc2: 010A_05426_030306<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_311_Tottori_010A_05426_030306.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_311_Tottori_090D_05485_121414.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_311_Tottori_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -1993,7 +1993,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Matsue",
+        "name": "Matsue (ID: 321)",
         "description": "Asc1: 083A_05460_050904<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_321_Matsue_083A_05460_050904.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_321_Matsue_090D_05485_121414.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2032,7 +2032,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Okayama",
+        "name": "Okayama (ID: 331)",
         "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_331_Okayama_083A_05602_131212.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_331_Okayama_090D_05485_121414.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2071,7 +2071,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hiroshima",
+        "name": "Hiroshima (ID: 341)",
         "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_341_Hiroshima_083A_05602_131212.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_341_Hiroshima_156A_05639_121313.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_341_Hiroshima_090D_05485_121414.png\" width=\"200\"><br>Des2: 163D_05579_100804<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_341_Hiroshima_163D_05579_100804.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2110,7 +2110,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fukuyama",
+        "name": "Fukuyama (ID: 342)",
         "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_342_Fukuyama_083A_05602_131212.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_342_Fukuyama_090D_05485_121414.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2149,7 +2149,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yamaguchi",
+        "name": "Yamaguchi (ID: 351)",
         "description": "Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_351_Yamaguchi_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05579_100804<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_351_Yamaguchi_163D_05579_100804.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2188,7 +2188,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Shimonoseki",
+        "name": "Shimonoseki (ID: 352)",
         "description": "Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_352_Shimonoseki_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05579_100804<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_352_Shimonoseki_163D_05579_100804.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2227,7 +2227,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tokushima",
+        "name": "Tokushima (ID: 361)",
         "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_361_Tokushima_083A_05602_131212.png\" width=\"200\"><br>Asc2: 010A_05549_121311<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_361_Tokushima_010A_05549_121311.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_361_Tokushima_090D_05485_121414.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_361_Tokushima_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2266,7 +2266,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Takamatsu",
+        "name": "Takamatsu (ID: 371)",
         "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_371_Takamatsu_083A_05602_131212.png\" width=\"200\"><br>Des1: 090D_05485_121414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_371_Takamatsu_090D_05485_121414.png\" width=\"200\"><br>Des2: 017D_05514_131312<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_371_Takamatsu_017D_05514_131312.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2305,7 +2305,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Matsuyama",
+        "name": "Matsuyama (ID: 381)",
         "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_381_Matsuyama_083A_05602_131212.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_381_Matsuyama_156A_05639_121313.png\" width=\"200\"><br>Des1: 090D_05651_051011<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_381_Matsuyama_090D_05651_051011.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2344,7 +2344,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kochi",
+        "name": "Kochi (ID: 391)",
         "description": "Asc1: 083A_05602_131212<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_391_Kochi_083A_05602_131212.png\" width=\"200\"><br>Des1: 090D_05651_051011<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_391_Kochi_090D_05651_051011.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2383,7 +2383,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fukuoka",
+        "name": "Fukuoka (ID: 401)",
         "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_401_Fukuoka_054A_05688_051313.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_401_Fukuoka_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_401_Fukuoka_163D_05736_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2422,7 +2422,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kitakyushu",
+        "name": "Kitakyushu (ID: 402)",
         "description": "Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_402_Kitakyushu_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05579_100804<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_402_Kitakyushu_163D_05579_100804.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2461,7 +2461,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kurume",
+        "name": "Kurume (ID: 403)",
         "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_403_Kurume_054A_05688_051313.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_403_Kurume_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_403_Kurume_163D_05736_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2500,7 +2500,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saga",
+        "name": "Saga (ID: 411)",
         "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_411_Saga_054A_05688_051313.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_411_Saga_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_411_Saga_163D_05736_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2539,7 +2539,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagasaki",
+        "name": "Nagasaki (ID: 421)",
         "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_421_Nagasaki_054A_05688_051313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_421_Nagasaki_163D_05736_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2578,7 +2578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sasebo",
+        "name": "Sasebo (ID: 422)",
         "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_422_Sasebo_054A_05688_051313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_422_Sasebo_163D_05736_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2617,7 +2617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kumamoto",
+        "name": "Kumamoto (ID: 431)",
         "description": "Asc1: 054A_05688_051313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_431_Kumamoto_054A_05688_051313.png\" width=\"200\"><br>Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_431_Kumamoto_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_431_Kumamoto_163D_05736_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2656,7 +2656,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Oita",
+        "name": "Oita (ID: 441)",
         "description": "Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_441_Oita_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_441_Oita_163D_05736_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2695,7 +2695,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Beppu",
+        "name": "Beppu (ID: 442)",
         "description": "Asc2: 156A_05639_121313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_442_Beppu_156A_05639_121313.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_442_Beppu_163D_05736_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2734,7 +2734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Miyazaki",
+        "name": "Miyazaki (ID: 451)",
         "description": "Asc2: 156A_05796_080500<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_451_Miyazaki_156A_05796_080500.png\" width=\"200\"><br>Des2: 163D_05736_131313<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_451_Miyazaki_163D_05736_131313.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2773,7 +2773,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kagoshima",
+        "name": "Kagoshima (ID: 461)",
         "description": "Asc1: 054A_05884_001412<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_461_Kagoshima_054A_05884_001412.png\" width=\"200\"><br>Des2: 163D_05934_091414<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_461_Kagoshima_163D_05934_091414.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
@@ -2812,7 +2812,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Naha",
+        "name": "Naha (ID: 471)",
         "description": "Asc2: 127A_06256_070603<br><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/network/network_471_Naha_127A_06256_070603.png\" width=\"200\"><br>",
         "_color": "#000000",
         "_opacity": 0.5,
