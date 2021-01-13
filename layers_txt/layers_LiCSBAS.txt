@@ -303,6 +303,19 @@
         },
         {
           "type": "Layer",
+          "id": "ts_point",
+          "title": "Time-series points",
+          "iconUrl": "",
+          "url": "https://raw.githubusercontent.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/main/xyz/ts_point/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "legendUrl": "",
+          "html": ""
+        },
+        {
+          "type": "Layer",
           "id": "allUD_cont",
           "title": "Contours of Vel (UD)",
           "iconUrl": "",

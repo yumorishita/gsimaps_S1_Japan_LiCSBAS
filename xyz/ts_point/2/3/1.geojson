@@ -1,0 +1,629 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P0161",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0161_Tomakomai.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0161_Tomakomai.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.656139,
+          42.631437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P0221",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0221_Hirosaki.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0221_Hirosaki.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.469174,
+          40.682115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P0222",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0222_Hirosaki.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0222_Hirosaki.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.41823,
+          40.75552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P0421",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0421_Kesennuma.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0421_Kesennuma.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.583229,
+          38.892269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P0611",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0611_Yamagata.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0611_Yamagata.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.324316,
+          38.220423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P0621",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0621_Yonezawa.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0621_Yonezawa.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.094359,
+          37.903404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P1311",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1311_Kanto.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1311_Kanto.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.275185,
+          35.678357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P1313",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1313_Kanto.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1313_Kanto.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.556188,
+          35.675825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P1312",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1312_Kanto.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1312_Kanto.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769204,
+          36.221376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P1511",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1511_Niigata.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1511_Niigata.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.141299,
+          37.963388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P1521",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1521_Nagaoka.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1521_Nagaoka.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.878126,
+          37.437362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P1531",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1531_Sanjo.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1531_Sanjo.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.95829,
+          37.643337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P1551",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1551_Ojiya.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1551_Ojiya.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.790314,
+          37.311381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P1571",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1571_Minamiuonuma.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1571_Minamiuonuma.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.872233,
+          37.070566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P1711",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1711_Kanazawa.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/1711_Kanazawa.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.585467,
+          36.5703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P2711",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/2711_Osaka.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/2711_Osaka.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.363366,
+          34.793371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P2712",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/2712_Osaka.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/2712_Osaka.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.388196,
+          34.79235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P2821",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/2821_Himeji.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/2821_Himeji.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.618107,
+          34.774524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P2911",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/2911_Nara.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/2911_Nara.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.782376,
+          34.554056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P3411",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/3411_Hiroshima.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/3411_Hiroshima.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.373337,
+          34.355364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P3421",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/3421_Fukuyama.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/3421_Fukuyama.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.470296,
+          34.464535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P4312",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/4312_Kumamoto.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/4312_Kumamoto.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.719215,
+          32.791375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P4311",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/4311_Kumamoto.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/4311_Kumamoto.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.605232,
+          32.756503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P0223",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0223_Hirosaki.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/0223_Hirosaki.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.451218,
+          40.795268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P2912",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/2912_Nara.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/2912_Nara.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.693199,
+          34.593513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P4313",
+        "description": "<a href=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/4313_Kumamoto.png\" target=\"_blank\"><img src=\"https://github.com/yumorishita/gsimaps_S1_Japan_LiCSBAS/raw/main/image/tspng/4313_Kumamoto.png\" width=\"200\"></a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/389.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.798305,
+          32.715318
+        ]
+      }
+    }
+  ]
+}
